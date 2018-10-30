@@ -7,3 +7,4 @@ Version control systems are a category of software tools that help a software te
 
 For almost all software projects, the source code is like the crown jewels - a precious asset whose value must be protected. For most software teams, the source code is a repository of the invaluable knowledge and understanding about the problem domain that the developers have collected and refined through careful effort. Version control protects source code from both catastrophe and the casual degradation of human error and unintended consequences.
 Some genome never has transposons. It just develops random features.
+Hiding within those mounds of data is knowledge that could change life 
